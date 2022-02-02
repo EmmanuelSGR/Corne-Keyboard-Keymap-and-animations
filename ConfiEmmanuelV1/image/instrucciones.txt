@@ -1,0 +1,13 @@
+Hello, to modify this file
+Enter here: https://helixfonteditor.netlify.app
+
+Once modified, save it in the folder
+"lib" replacing the file to take effect. 
+
+
+----------------------------------------------------
+Hola, para modificar este archivo
+entra aqui: https://helixfonteditor.netlify.app
+
+Una ves modificado, guardalo en la carpeta
+"lib" reemplazando el archivo para que surta efecto.
